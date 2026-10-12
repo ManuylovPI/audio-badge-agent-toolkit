@@ -1,0 +1,4 @@
+# opuslib — обёртка над системной библиотекой libopus (Debian/Ubuntu: apt install libopus0)
+numpy
+soundfile
+opuslib
