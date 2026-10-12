@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(../.venv/bin/python scripts/*)"
+    ],
+    "deny": [
+      "Bash(rm *)",
+      "Bash(git push *)"
+    ]
+  }
+}
