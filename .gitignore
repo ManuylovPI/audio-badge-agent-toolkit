@@ -218,3 +218,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.venv/
+__pycache__/
+*.pyc
+out/
+*.wav
+*.opus
+*.ogg
+!examples/samples/*.wav
+.claude/settings.local.json
+CLAUDE.local.md
+.env
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
